@@ -2,6 +2,8 @@
 
 Mini-curso de algoritmos de clusterização voltado para profissionais de TI do Santander Brasil.
 
+**Instrutor:** [Rafael Monteiro](https://rafael-a-monteiro-math.github.io/) (ou [Linkedin](https://www.linkedin.com/in/rafael-a-monteiro-appliedmath/))
+
 ---
 
 ## Lab — Clusterização e a Maldição da Dimensionalidade
